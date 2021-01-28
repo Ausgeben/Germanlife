@@ -15,6 +15,17 @@ import net.dv8tion.jda.api.requests.GatewayIntent;
 import net.dv8tion.jda.api.sharding.DefaultShardManagerBuilder;
 import net.dv8tion.jda.api.sharding.ShardManager;
 
+/*
+ * This file was created by Ausgeben
+ * Discord: Ausgeben#5578
+ * 
+ * This project is an order from ThunderArts Discord Server
+ * Discord Invite: https://discord.gg/FX5qWgpZaK
+ * 
+ * Everyone can edit this file on his own and
+ * develope/customize it for his own use.
+ */
+
 public class Login {
 	
 	public static Login INSTANCE;
